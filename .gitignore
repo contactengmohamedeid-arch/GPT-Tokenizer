@@ -12,3 +12,9 @@ gpt_env/
 venv/
 env/
 *.parquet
+__pycache__/
+.DS_Store
+models/**/*
+*.pytest_cache
+*.model
+*.vocab
