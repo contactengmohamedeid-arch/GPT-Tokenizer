@@ -9,7 +9,7 @@ But:
 - Does not handle any special tokens.
 """
 
-from .Base import Tokenizer, get_stats, merge
+from Base import Tokenizer, get_stats, merge
 
 
 class BasicTokenizer(Tokenizer):
